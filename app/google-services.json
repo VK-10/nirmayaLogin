@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299702253162",
+    "project_id": "nirayama-661a6",
+    "storage_bucket": "nirayama-661a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299702253162:android:7c32e30fc99592ebedfc13",
+        "android_client_info": {
+          "package_name": "com.example.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299702253162-r416g2ml77t2j9greu2rb21omj0fjdn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcEThi2GMnqR8vA2qZsGqC4xwJqbabQgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299702253162-r416g2ml77t2j9greu2rb21omj0fjdn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
